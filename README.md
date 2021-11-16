@@ -21,17 +21,10 @@ Al finalizar la investigación, los objetivos han de ser identificables con los 
 
 Considerar la Taxonomía de Bloom
 
-2. MARCO TEÓRICO (RESUMEN)
+2. MARCO TEÓRICO 
 
-Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
+![image](https://user-images.githubusercontent.com/93734334/141880360-b4310b68-c9b5-4fec-92a6-41f7b771fa59.png)
 
-Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
-* Describir la actual relación entre el problema enunciado y el sistema o sistemas teóricos/conceptuales que pueden guiarlo.
-* Dejar claramente especificada la relación entre la teoría que guía la investigación y la realidad que se percibe como problema de investigación.
-* Conceptualizar el problema en la forma de un modelo, útil para clarificar los conceptos y relaciones conceptuales.
-* Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
-
-Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar  mentefactos, cuadro comparativos, esquemas o mapas conceptuales
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
