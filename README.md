@@ -31,8 +31,40 @@ Considerar la Taxonomía de Bloom
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas.
-La solución deb estar en esta sección, no como un archivo anexo.
+15. Convierta 6700 watts-segundos en kWh.
+
+* SECCIÓN 4–2 Potencia en un circuito eléctrico
+
+17. Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga?
+
+19. Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza?
+
+21. Calcule la potencia disipada por un resistor de 10 kÆ que transporta 100 mA.
+
+23. Se conecta un resistor de 56 Æ entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de
+potencia en el resistor?
+
+25. Una fuente de 12 V se conecta entre los extremos de un resistor de 10 Æ.
+(a) ¿Cuánta energía se utiliza en dos minutos?
+(b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer minuto mayor, menor o igual a la potencia que hay durante un intervalo de dos minutos?
+
+* SECCIÓN 4–3 Clasificaciones de potencia en resistores
+
+27. Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación
+utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?
+
+* SECCIÓN 4–5 Fuentes de potencia
+
+29. Una carga de 50 Æ utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia?
+
+31. ¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?
+
+33. ¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h?
+
+35. Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuál
+es la eficiencia de esta fuente de potencia?
+
+37. Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?
 
 4. VIDEO
 
