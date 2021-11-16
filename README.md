@@ -33,6 +33,9 @@ Considerar la Taxonomía de Bloom
 
 15. Convierta 6700 watts-segundos en kWh.
 
+0.00186 kWh
+
+
 * SECCIÓN 4–2 Potencia en un circuito eléctrico
 
 17. Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga?
