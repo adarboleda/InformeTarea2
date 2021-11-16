@@ -27,6 +27,7 @@ Considerar la Taxonomía de Bloom
 
 ![image](https://user-images.githubusercontent.com/93734334/141883427-442f8b9b-c6bc-4065-aef7-87dc949204ea.png)
 
+![image](https://user-images.githubusercontent.com/93734334/141888778-354e39d9-c74a-4e14-b6d6-f6ced7231414.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
