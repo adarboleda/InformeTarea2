@@ -129,6 +129,15 @@ La energia total en jouls es
 35. Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuál
 es la eficiencia de esta fuente de potencia?
 
+500mW entrada------400mW salida                                                                                                                                                   
+Pperdida=Pentrada-Psalida                                                                                                                                                         
+Pperdida=500mW - 400mW                                                                                                                                                           
+**Pperdida=100mW**
+
+Eficencia=(Psalida/Pentrada) x 100%                                                                                                                                               
+Eficiencia=(400mW/500mW) x 100%                                                                                                                                                   
+**Eficiencia=80%**
+
 37. Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?
 
 4. VIDEO
