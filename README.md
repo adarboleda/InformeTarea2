@@ -102,12 +102,18 @@ W=(12)(1.2)(0.333)
 
 * SECCIÓN 4–3 Clasificaciones de potencia en resistores
 
-27. Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación
-utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?
+27. Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?
+
+**Se debe usar una clasificación de por lo menos 12 W,puesto que eso va a permitir tener un margen de seguridad del 20%**
 
 * SECCIÓN 4–5 Fuentes de potencia
 
-29. Una carga de 50 Æ utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia?
+29. Una carga de 50 ohmios utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia?
+
+P=V^2/R                                                                                                                                                                           
+P x R= V^2                                                                                                                                                                       
+V = raiz cuadrada(50 x 1)                                                                                                                                                         
+**V= 7.07 V**
 
 31. ¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?
 
