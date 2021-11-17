@@ -59,6 +59,14 @@ R=(75V)^2/150
 
 19. Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza?
 
+120V                                                                                                                                                                             
+3A                                                                                                                                                                               
+P=?
+
+P=VI                                                                                                                                                                             
+P=(120V)(3A)                                                                                                                                                                     
+**P=360W**
+
 21. Calcule la potencia disipada por un resistor de 10 kÆ que transporta 100 mA.
 
 23. Se conecta un resistor de 56 Æ entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de
