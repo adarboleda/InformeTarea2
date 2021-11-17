@@ -117,7 +117,14 @@ V = raiz cuadrada(50 x 1)
 
 31. ¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?
 
+La energia total en jouls es                                                                                                                                                     
+**50,544 J**
+
 33. ¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h?
+
+8Ah=(A)(xh)                                                                                                                                                                       
+8Ah/10h=(A)                                                                                                                                                                       
+**A=8A**
 
 35. Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuál
 es la eficiencia de esta fuente de potencia?
