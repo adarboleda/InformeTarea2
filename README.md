@@ -67,7 +67,14 @@ P=VI
 P=(120V)(3A)                                                                                                                                                                     
 **P=360W**
 
-21. Calcule la potencia disipada por un resistor de 10 kÆ que transporta 100 mA.
+21. Calcule la potencia disipada por un resistor de 10 kohmios que transporta 100 microA.
+
+10komhios → 10000ohmios                                                                                                                                                           
+100microA → 0.0001A
+
+P=I^2 x R                                                                                                                                                                         
+P=(0.001)^2 x 10000                                                                                                                                                               
+**P=0.01 W**
 
 23. Se conecta un resistor de 56 Æ entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de
 potencia en el resistor?
