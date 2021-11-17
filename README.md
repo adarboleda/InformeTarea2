@@ -140,6 +140,14 @@ Eficiencia=(400mW/500mW) x 100%
 
 37. Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?
 
+60%=2W/Psalida                                                                                                                                                                   
+Psalida=2W/60%                                                                                                                                                                   
+Psalida=3.3W
+
+W=Pt                                                                                                                                                                             
+W=3.3 x 24h                                                                                                                                                                       
+**W=0.08Kwh**
+
 4. VIDEO
 
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
