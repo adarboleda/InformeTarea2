@@ -30,10 +30,15 @@ Considerar la Taxonomía de Bloom
 ![image](https://user-images.githubusercontent.com/93734334/141888778-354e39d9-c74a-4e14-b6d6-f6ced7231414.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+* SECCIÓN 4–1 Energía y potencia
 
 15. Convierta 6700 watts-segundos en kWh.
 
-0.00186 kWh
+6700 watts → 6.7 watts
+
+6.7 kWh x 1h/3600s
+
+**0.00186 kWh**
 
 
 * SECCIÓN 4–2 Potencia en un circuito eléctrico
