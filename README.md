@@ -40,10 +40,22 @@ Considerar la Taxonomía de Bloom
 
 **0.00186 kWh**
 
-
 * SECCIÓN 4–2 Potencia en un circuito eléctrico
 
 17. Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga?
+
+75V                                                                                                                                                                               
+2A                                                                                                                                                                               
+R=?
+
+P=VI                                                                                                                                                                             
+P=(75V)(2A)                                                                                                                                                                       
+P=150W
+
+P=V^2/R                                                                                                                                                                           
+R=V^2/P                                                                                                                                                                           
+R=(75V)^2/150                                                                                                                                                                     
+**R=37.5 ohmios**
 
 19. Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza?
 
