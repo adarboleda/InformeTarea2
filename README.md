@@ -146,7 +146,7 @@ W=3.3 x 24h
 5. CONCLUSIONES
 
 * Como conclusión se tiene que a medida que los electrones fluyen por cada resistencia en un circuito estos ceden algo de su energía en forma de calor, por lo que quiere decir que los electrones tienen más energía cuando entran a una resistencia que cuando salen de esta.
-* 
+* También se tiene que para poder hallar la cantidad máxima de potencia que un resistor puede disipar sin que sufra daños por calentamiento excesivo, existe la potencia nominal, la cual no está relacionada con el valor de la resistencia, sino que está relacionada por tres cosas: la composición física, el tamaño y el área de la resistencia.
 
 6. BIBLIOGRAFÍA
 
