@@ -5,12 +5,13 @@
 
 Objetivo General
 
-* Conocer sobre las cantidades y unidades, voltaje, coriente y resistencia mediante la utilización del libro de Floyd "Principios de Circuitos Eléctricos"
+* Conocer sobre la ley de ohm, sobre la energía y potencia mediante la utilización del libro de Floyd "Principios de Circuitos Eléctricos"
 
 Objetivo Específico
 
-* Resumir los capitulos uno y dos del libro de Floyd "Principios de Circuitos Eléctricos", para que de esta manera se pueda comprender de una mejor manera los temas descritos.
-* Aplicar los conocimientos adquiridos para la resolcuión de los ejercicos propuestos por el libro de Floyd.
+* Resumir los capitulos tres y cuatro del libro de Floyd "Principios de Circuitos Eléctricos", para que de esta manera se pueda comprender de una mejor manera los temas descritos.
+* Aplicar los conocimientos adquiridos de los temas de la ley de ohm, energia y potencia para la resolcuión de los ejercicos propuestos por el libro de Floyd.
+
 
 2. MARCO TEÓRICO 
 
