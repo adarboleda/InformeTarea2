@@ -83,9 +83,22 @@ P=(1.5)^2/56
 P=0.0402 W                                                                                                                                                                       
 **P=40.2 mW**
 
-25. Una fuente de 12 V se conecta entre los extremos de un resistor de 10 Æ.
+25. Una fuente de 12 V se conecta entre los extremos de un resistor de 10 ohmios.                                                                                                 
 (a) ¿Cuánta energía se utiliza en dos minutos?
+
+T=2/60                                                                                                                                                                           
+T=0.333
+
+I=12/10                                                                                                                                                                           
+I=1.2 A
+
+W=VIT                                                                                                                                                                             
+W=(12)(1.2)(0.333)                                                                                                                                                               
+**W=0.480 wh**
+
 (b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer minuto mayor, menor o igual a la potencia que hay durante un intervalo de dos minutos?
+
+**Es igual**
 
 * SECCIÓN 4–3 Clasificaciones de potencia en resistores
 
