@@ -76,8 +76,12 @@ P=I^2 x R
 P=(0.001)^2 x 10000                                                                                                                                                               
 **P=0.01 W**
 
-23. Se conecta un resistor de 56 Æ entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de
+23. Se conecta un resistor de 56 ohmios entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de
 potencia en el resistor?
+
+P=(1.5)^2/56                                                                                                                                                                     
+P=0.0402 W                                                                                                                                                                       
+**P=40.2 mW**
 
 25. Una fuente de 12 V se conecta entre los extremos de un resistor de 10 Æ.
 (a) ¿Cuánta energía se utiliza en dos minutos?
