@@ -547,19 +547,19 @@ VI = joule/coulomb * coulomb/segundo = joule/seg = watt
 
 (a) 1,000,000 W
 
-     1000000 W / 1000000 = 1 MW
+   1000000 W / 1000000 = **1 MW**
      
 (b) 3 x 10^6 W
 
-     3 x 10^6 W / 1000000 = 3 MW
+   3 x 10^6 W / 1000000 = **3 MW**
      
 (c) 15 x 10^7 W
 
-      15 x 10^7 W / 1000000 = 150 MW
+   15 x 10^7 W / 1000000 = **150 MW**
 
 (d) 8700 kW
 
-      8700 kW / 1000 = 8.7 MW
+   8700 kW / 1000 = **8.7 MW**
 
 13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?
 
