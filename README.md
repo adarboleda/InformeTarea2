@@ -529,8 +529,32 @@ SECCIÓN 3–4 Cálculo de la resistencia
  R= 120 V / 0.8 A
  
  R= 150 Ω
+ 
+ 33. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál es el problema con el circuito?
+ 
+ ![image](https://user-images.githubusercontent.com/93733175/142420904-b097e333-c976-4d09-acf9-b4ba927b9b70.png)
 
+Respondiendo la primera pregunta
 
+Respondiendo la segunda pregunta
+
+R = 100 V / 1 A
+
+R = 100 Ω
+
+35. Repita el problema 34 con un circuito de 110 V y un fusible de 1 A.
+
+110 V = (1A * R) + (1A * 15 Ω)
+
+110 V = (1A * R) +15 V
+
+(1A * R) = 95 V
+
+R = 95 V / 1 A
+
+R = 95 Ω
+
+37. Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?
 
        
 SECCIÓN 4–1 Energía y potencia
