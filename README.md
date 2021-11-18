@@ -487,22 +487,85 @@ V_x=(6 V)/(100.144 Ω )*0.072 Ω
 **V_x=0.004 V
 
 SECCIÓN 3–4 Cálculo de la resistencia
+
 29. Calcule la resistencia de un reóstato para cada juego de valores de V e I:
+
 (a) V= 10 kV, I = 5 A
+
       R= 10 kV / 5A
+      
       R= 2 kΩ
+      
 (b)  V= 7 V, I = 2 mA
+
        R= 7 V / 2 mA
+       
        R= 3.5 kΩ
+       
 (c)  V= 500 V, I = 250 mA
+
        R= 500 V / 250 mA
+       
        R= 2 kΩ
+       
 (d)  V= 50 V, I = 500 µA
+
        R= 50 V / 500 µA
+       
        R= 100 kΩ
+       
 (e)  V= 1 kV, I = 1 mA
+
        R= 1 kV / 1 mA
+       
        R= 1.0 MΩ
+       
+31. En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?
+
+![image](https://user-images.githubusercontent.com/93733175/142413208-cd3e49b1-7cf3-477f-9ea2-292bcd2d7c29.png)
+
+ R= V/I
+ 
+ R= 120 V / 0.8 A
+ 
+ R= 150 Ω
+
+
+
+       
+SECCIÓN 4–1 Energía y potencia
+
+1. Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere.
+
+volt = joule/coulomb 
+
+amp = coulomb/segundo 
+
+VI = joule/coulomb * coulomb/segundo = joule/seg = watt
+
+7. Convierta las siguientes cantidades en megawatts:
+
+(a) 1,000,000 W
+
+     1000000 W / 1000000 = 1 MW
+     
+(b) 3 x 10^6 W
+
+     3 x 10^6 W / 1000000 = 3 MW
+     
+(c) 15 x 10^7 W
+
+      15 x 10^7 W / 1000000 = 150 MW
+
+(d) 8700 kW
+
+      8700 kW / 1000 = 8.7 MW
+
+13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?
+
+31 días = 744 horas
+
+1500 kWh * 1 día / 744 h = 2.02 kWh
 
 
 * SECCIÓN 4–1 Energía y potencia
