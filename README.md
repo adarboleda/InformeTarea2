@@ -15,6 +15,10 @@ Objetivo Específico
 
 2. MARCO TEÓRICO 
 
+![imagen](https://user-images.githubusercontent.com/93879569/142340322-96b7d257-7173-47fe-b978-12b6004f857b.png)
+
+![imagen](https://user-images.githubusercontent.com/93879569/142340454-78a38a03-02e7-489e-9004-b329d3badae5.png)
+
 ![image](https://user-images.githubusercontent.com/93734334/141880360-b4310b68-c9b5-4fec-92a6-41f7b771fa59.png)
 
 ![image](https://user-images.githubusercontent.com/93734334/141883427-442f8b9b-c6bc-4065-aef7-87dc949204ea.png)
@@ -22,6 +26,462 @@ Objetivo Específico
 ![image](https://user-images.githubusercontent.com/93734334/141888778-354e39d9-c74a-4e14-b6d6-f6ced7231414.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+SECCIÓN 3–1 La relación de corriente, voltaje y resistencia
+
+1) En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente cuando 
+
+(a) El voltaje se triplica
+
+Si el voltaje se duplica la corriente también lo hace porque son directamente proporcionales. 
+
+Ejemplo:
+
+V = 10 V
+
+R = 2 Ω (constante)
+
+I_1=  (10 V)/(2 Ω)
+
+I_1=5 A
+
+Ahora tripliquemos el voltaje. 
+
+V = 10 * 3 = 30 V
+
+R = 2 Ω (constante)
+
+I_2=  (30 V)/(2 Ω)
+
+I_2=15 A
+
+Entonces si el voltaje de triplico, la corriente también tuvo que hacerlo. 
+
+V=10*3=30 V
+
+I_2=5*3=15 A
+
+**Sí cumple.*
+
+(b) El voltaje se reduce en 75%
+
+Si el voltaje se reduce en 75%, la corriente también lo hace porque son directamente proporcionales.
+
+Ejemplo:
+
+V = 10 V
+
+R = 2 Ω (constante)
+
+I_1=  (10 V)/(2 Ω)
+
+I_1=5 A
+
+Ahora reduzcamos el voltaje.
+
+V = 10 * 75% = 7.5 V
+
+V = 10 – 7.5 = 2.5 V
+
+R = 2 Ω (constante)
+
+I_2=  (2.5 V)/(2 Ω)
+
+I_2=1.25 A
+
+Entonces si el voltaje se redujo al restar el 75 %, la corriente también tuvo que hacerlo.
+
+V=10-7.5=7.5 V
+
+I_1=5*75%=3.75 A
+
+I_2=5-3.75=1.25 A
+
+**Sí cumple.*
+
+(c)	La resistencia se duplica
+
+Si la resistencia se duplica el valor de la corriente se dividirá para 2 debido a que son inversamente proporcionales.
+
+Ejemplo:
+
+V = 10 V (constante)
+
+R = 2 Ω
+
+I_1=  (10 V)/(2 Ω)
+
+I_1=5 A
+
+Ahora dupliquemos la resistencia. 
+
+V = 10 V
+
+R = 2 * 2 = 4 Ω 
+
+I_2=  (10 V)/(4 Ω)
+
+I_2=2.5 A
+
+Entonces si la resistencia se duplicó, la corriente tuvo reducirse a la mitad.
+
+R=2*2=4 Ω
+
+I_2=5/2=2.5 A
+
+**Sí cumple.
+
+(d) La resistencia se reduce en 35%
+
+Si la resistencia se reduce a un 35% el valor de la corriente aumentará un 35% debido a que son inversamente proporcionales.
+
+Ejemplo:
+
+V = 10 V (constante)
+
+R = 2 Ω
+
+I_1=  (10 V)/(2 Ω)
+
+I_1=5 A
+
+Ahora reduzcamos la resistencia. 
+
+V = 10 V (constante)
+
+R = 2 * 35% = 0.7 Ω 
+
+R = 2 – 0.7 = 1.3 Ω
+
+I_2=  (10 V)/(1.3 Ω)
+
+I_2=7.69 A
+
+Entonces si la resistencia se redujo al restar el 35%, la corriente tuvo que aumentar al sumar el 35%.
+
+R=2-0.7=1.3 Ω
+
+I_1=5*35%=1.75 A
+
+I_2=5+1.75=6.75 
+
+**Al parecer al momento de trabajar con porcentajes no cumple en una relación inversamente proporcional.
+
+
+(e) El voltaje se duplica y la resistencia se reduce a la mitad
+
+El valor de la corriente aumentara debido a que el voltaje será superior a la resistencia generando que pase mayor cantidad de corriente.
+
+Ejemplo:
+
+V = 10 V 
+
+R = 2 Ω
+
+I_1=  (10 V)/(2 Ω)
+
+I_1=5 A
+
+Ahora dupliquemos el voltaje y dividamos la resistencia. 
+
+V = 10 * 2 = 20
+
+R = 2 / 2= 1 Ω 
+
+I_2=  (20 V)/(1 Ω)
+
+
+I_2=20 A
+
+**Entonces la corriente aumento cuatro veces su valor original.
+
+(f) el voltaje y la resistencia se duplican
+
+
+El valor de la corriente aumentara debido a que el voltaje será superior a la resistencia generando que pase mayor cantidad de corriente.
+
+Ejemplo:
+
+V = 10 V 
+
+R = 2 Ω
+
+I_1=  (10 V)/(2 Ω)
+
+I_1=5 A
+
+Ahora dupliquemos el voltaje y la resistencia. 
+
+V = 10 * 2 = 20
+
+R = 2 * 2= 4 Ω 
+
+I_2=  (20 V)/(4 Ω)
+
+I_2=5 A
+
+**Entonces la corriente mantuvo su valor original.
+
+3. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos.
+
+**V=I*R
+
+5. Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de V contra I. 
+
+![imagen](https://user-images.githubusercontent.com/93879569/142341147-8a037bbe-63a0-4056-bec9-e78752455475.png)
+
+![imagen](https://user-images.githubusercontent.com/93879569/142341171-a26ed4ca-14d9-4548-b13f-c85ef8372ebf.png)
+
+![imagen](https://user-images.githubusercontent.com/93879569/142341270-e804ccae-e244-4125-ad1b-585e4d82004f.png)
+
+¿Es la gráfica una línea recta? 
+
+**Sí, se encuentra inclinada y crece continuamente. 
+
+¿Qué indica la gráfica?
+
+**La gráfica indica que el voltaje y la corriente son directamente proporcionales.
+
+7. La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1, R2 y R3.
+
+![imagen](https://user-images.githubusercontent.com/93879569/142341346-0db3184a-6354-4248-9e9c-22e67d3fccfd.png)
+
+La fórmula que se aplicará es: R=  V/I
+
+**Para R1: R_1=3/6=0.5 Ω
+
+**Para R2: R_2=6/6=1 Ω
+
+**Para R3: R_3=6/3=2 Ω
+
+9. Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde, gris, café, rojo.
+
+Valor de la resistencia = café, verde, gris, café, rojo
+
+Valor de la resistencia = 1580 Ω, con una tolerancia del ± 2 %
+
+La fórmula es:
+
+I=  V/R
+
+Entonces: 
+
+R=  V/I
+
+Reemplazando el valor de la resistencia se tiene: 
+
+**1580 Ω=(V (V))/(I (A))
+
+Gráfica
+
+![imagen](https://user-images.githubusercontent.com/93879569/142341525-985f99a2-8c53-417f-ba75-2a4a13a3c164.png)
+
+![imagen](https://user-images.githubusercontent.com/93879569/142341566-503e3ed5-e692-472d-8111-3cb4444d6a2d.png)
+
+*11. Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia, debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su nuevo valor?
+Para sacar el valor del voltaje no es necesario emplear la ley de Ohm, sino que sabiendo que el voltaje y la corriente son directamente proporcionales y que el valor de la resistencia permanece constante. Entonces se puede plantear una regla de 3
+
+10 V → 50 mA
+
+X ← 30 mA
+
+Entonces:
+
+X=  (10 V * 30 mA)/(50 mA)
+
+X=6 V
+
+**Respuesta = El nuevo valor de la batería es de 6 V
+
+Cambio=10 V-6 V
+
+Cambio=4 V
+
+**Respuesta = Ha cambiado 4 V menos.
+
+13. Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia:
+(a) 1.0 Ω	(b) 5.0 Ω	(c) 20 Ω		(d) 100 Ω
+
+(a) 1.0 Ω
+
+![imagen](https://user-images.githubusercontent.com/93879569/142341657-24b346c9-71b9-419b-8b31-282521cef3d8.png)
+
+![imagen](https://user-images.githubusercontent.com/93879569/142341715-1e155628-67fa-463c-9d2c-4854e2384469.png)
+
+(b) 5.0 Ω
+
+![imagen](https://user-images.githubusercontent.com/93879569/142341763-48176741-6588-41dd-b722-8533d31eadfb.png)
+
+![imagen](https://user-images.githubusercontent.com/93879569/142341792-f15c2cb7-0f31-46fe-a9c3-c97f13cf85d6.png)
+
+(c) 20 Ω
+
+![imagen](https://user-images.githubusercontent.com/93879569/142341846-b4187aff-fc49-46c5-9fc1-58726a8d9f76.png)
+
+![imagen](https://user-images.githubusercontent.com/93879569/142341890-f3694b8e-4464-4c2c-92f3-970e0b4c0531.png)
+
+(d) 100 Ω
+
+![imagen](https://user-images.githubusercontent.com/93879569/142341953-9cded416-4557-49a6-a0af-5ed5024a342d.png)
+
+![imagen](https://user-images.githubusercontent.com/93879569/142341992-3b25480a-866f-4500-bfc5-93c0abe960dd.png)
+
+SECCIÓN 3-2 Cálculo de la corriente
+
+15. Determine la corriente en cada caso:
+
+(a) V = 5 V, R = 1.0 Ω
+
+I=  V/R=  (5 V)/(1 Ω)
+
+**I=5 A
+
+(b) V = 15 V, R = 10 Ω
+
+I=  V/R=  (15 V)/(10 Ω)
+
+**I=1.5 A
+
+(c) V = 50 V, R = 100 Ω
+
+I=  V/R=  (50 V)/(100 Ω)
+
+**I=0.5 A
+
+(d) V = 30 V, R = 15 KΩ
+
+I=  V/R=  (30 V)/(15 KΩ)
+
+**I=2 mA
+
+(e) V = 250 V, R = 5.6 MΩ
+
+I=  V/R=  (250 V)/(5.6 MΩ)
+
+**I=44.64 μA
+
+17. Se conecta un resistor de 10 Ω través de una batería de 12 V. ¿Cuál es la corriente a través del resistor?
+
+I=V/R=(12 V)/(10 Ω)
+
+**I=1.2 A
+
+19. Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25 V. Determine la corriente del resistor si el código de colores es amarillo, violeta, naranja, plata.
+
+Valor de la resistencia = amarillo, violeta, naranja, plata
+
+Valor de la resistencia = 47000 Ω, con una tolerancia del ± 10 %
+
+R = 47000 Ω = 47 KΩ
+
+I=  V/R=  (25 V)/(47 KΩ)
+
+**I=0.53 mA
+
+21. Si el voltaje del problema 20 se duplica, ¿se fundirá un fusible de 0.5 A? Explique su respuesta.
+
+Primero responderemos la pregunta 20:
+
+Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.
+
+Valor de la resistencia = naranja, violeta, amarillo, oro, café.
+
+Valor de la resistencia = 374 * 0.1, con una tolerancia de ± 1 %
+
+Valor de la resistencia = 37.4 Ω
+
+I=Voltaje/Resistencia=V/R
+
+I=(12 V)/(37.4 Ω)
+
+I=0.32 A
+
+Ahora si contestemos la pregunta 21:
+
+Voltaje = 12 * 2 = 24 V
+
+I=V/R
+
+I=  (24 V)/(37.4 Ω )
+
+I=0.64 A
+
+**Respuesta: Sí, porque el valor de la corriente calculada es mayor al valor del fusible y debido a que la cantidad de amperios de un fusible representa la cantidad que puede soportar este se fundirá.
+
+SECCIÓN 3-3 Cálculo del voltaje
+
+23. Calcule el voltaje para cada valor de I y R:
+
+(a) I = 2 A; R = 18 Ω
+
+V=I*R=2 A*18 Ω
+
+**V=36 V
+
+(b) I = 5 A; R = 56 Ω
+
+V=I*R=5 A*56 Ω
+
+**V=280 V
+
+(c) I = 2.5 A; R = 680 Ω
+
+V=I*R=2.5 A*680 Ω
+
+**V=1700 V
+
+(d) I = 0.6 A; R = 47 Ω
+
+V=I*R=0.6 A*47 Ω
+
+**V=28.2 V
+
+(e) I = 0.1 A; R = 560 Ω
+
+V=I*R=0.1 A*560 Ω
+
+**V=56 V
+
+25. Se leen tres amperes de corriente a través de un resistor de 27 conectado a una fuente de voltaje. ¿Cuánto voltaje produce la fuente?
+
+V=I*R=3 A*27 Ω
+
+**V=81 V
+
+*27. Se conecta una fuente de 6 V a un resistor de 100 Ω mediante dos tramos de alambre de cobre calibre 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de 100. Determine lo siguiente:
+
+Resistencia de los cables:  20.73 Ohmio / Km
+
+Ahora convertimos a pies: 20.73 Ohmio/Km*(1 Km)/(3280,8399 ft)=0.006 Ohmio/ft
+
+Pero 0.006 ohmio/ft representa un pie, entonces
+
+Resistencia del tramo del alambre de cobre: 0.006  Ω/ft*12 ft=0.072 Ω Ω
+
+(a) Corriente
+
+Resistencia total = 100 Ω + 2 * 0.072 Ω = 100.144 Ω
+
+I=V/R=(6 V)/(100.144 Ω)
+
+**I=0.0599 A
+
+(b) Caída de voltaje en el resistor
+
+V_x=V_s/R_t *R_x
+
+V_x=(6 V)/(100.144 Ω )*100Ω
+
+**V_x=5.99 V
+	
+(c) Caída de voltaje a través de cada tramo de alambre
+
+V_x=(6 V)/(100.144 Ω )*0.072 Ω
+
+**V_x=0.004 V
+
+
+
 * SECCIÓN 4–1 Energía y potencia
 
 15. Convierta 6700 watts-segundos en kWh.
@@ -147,6 +607,9 @@ W=3.3 x 24h
 
 * Como conclusión se tiene que a medida que los electrones fluyen por cada resistencia en un circuito estos ceden algo de su energía en forma de calor, por lo que quiere decir que los electrones tienen más energía cuando entran a una resistencia que cuando salen de esta.
 * También se tiene que para poder hallar la cantidad máxima de potencia que un resistor puede disipar sin que sufra daños por calentamiento excesivo, existe la potencia nominal, la cual no está relacionada con el valor de la resistencia, sino que está relacionada por tres cosas: la composición física, el tamaño y el área de la resistencia.
+* Al querer hallar un valor de corriente o voltaje y si la resistencia permanece constante se puede utilizar una regla de tres, en cambio al querer realiza lo mismo con la resistencia donde el voltaje es constante no sirve debió a que la resistencia y la corriente son inversamente proporcionales.
+* La ley de ohm simboliza la relación que tiene con el voltaje y la resistencia mediante su fórmula.
+
 
 6. BIBLIOGRAFÍA
 
