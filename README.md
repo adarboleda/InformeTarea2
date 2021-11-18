@@ -492,33 +492,33 @@ SECCIÓN 3–4 Cálculo de la resistencia
 
 (a) V= 10 kV, I = 5 A
 
-      R= 10 kV / 5A
+   R= 10 kV / 5A
       
-      R= 2 kΩ
+   **R= 2 kΩ**
       
 (b)  V= 7 V, I = 2 mA
 
-       R= 7 V / 2 mA
+   R= 7 V / 2 mA
        
-       R= 3.5 kΩ
+   **R= 3.5 kΩ**
        
 (c)  V= 500 V, I = 250 mA
 
-       R= 500 V / 250 mA
+   R= 500 V / 250 mA
        
-       R= 2 kΩ
+   **R= 2 kΩ**
        
 (d)  V= 50 V, I = 500 µA
 
-       R= 50 V / 500 µA
+   R= 50 V / 500 µA
        
-       R= 100 kΩ
+   **R= 100 kΩ**
        
 (e)  V= 1 kV, I = 1 mA
 
-       R= 1 kV / 1 mA
+   R= 1 kV / 1 mA
        
-       R= 1.0 MΩ
+   **R= 1.0 MΩ**
        
 31. En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?
 
