@@ -584,13 +584,32 @@ VI = joule/coulomb * coulomb/segundo = joule/seg = watt
 (d) 8700 kW
 
    8700 kW / 1000 = **8.7 MW**
+   
+9. Convierta las siguientes cantidades en microwatts:
 
+(a) 2 W
+
+**Respuesta = 2000000 µW**
+
+(b) 0.0005 W
+
+**Respuesta = 500 µW**
+(c) 0.25 mW
+
+**Respuesta =250 µW**
+
+(d) 0.00667 mW
+
+**Respuesta = 6.67 µW**
+
+11. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos joules de energía consume?
+
+   
 13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?
 
 31 días = 744 horas
 
-1500 kWh * 1 día / 744 h = 2.02 kWh
-
+1500 kWh * 1 día / 744 h = **2.02 kWh**
 
 * SECCIÓN 4–1 Energía y potencia
 
