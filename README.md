@@ -536,6 +536,8 @@ SECCIÓN 3–4 Cálculo de la resistencia
 
 Respondiendo la primera pregunta
 
+133 Ω
+
 Respondiendo la segunda pregunta
 
 R = 100 V / 1 A
@@ -552,10 +554,13 @@ R = 100 Ω
 
 R = 95 V / 1 A
 
-R = 95 Ω
+**R = 95 Ω**
+
+La fuente puede ponerse en cortocircuito si elreóstato se ajusta a 0 Ω.
 
 37. Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?
 
+**CINCO**
        
 SECCIÓN 4–1 Energía y potencia
 
@@ -566,6 +571,14 @@ volt = joule/coulomb
 amp = coulomb/segundo 
 
 VI = joule/coulomb * coulomb/segundo = joule/seg = watt
+
+3. ¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?
+
+**Respuesta = 350 W**
+
+5. ¿A cuántos watts equivalen 1000 J en 50 ms?
+
+**Respuesta = 20 kW**
 
 7. Convierta las siguientes cantidades en megawatts:
 
@@ -594,6 +607,7 @@ VI = joule/coulomb * coulomb/segundo = joule/seg = watt
 (b) 0.0005 W
 
 **Respuesta = 500 µW**
+
 (c) 0.25 mW
 
 **Respuesta =250 µW**
@@ -604,6 +618,7 @@ VI = joule/coulomb * coulomb/segundo = joule/seg = watt
 
 11. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos joules de energía consume?
 
+**Respuesta = 8640 J**
    
 13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?
 
@@ -731,7 +746,6 @@ W=3.3 x 24h
 
 4. VIDEO
 
-https://youtu.be/FIkmGYvm-uE
 
 5. CONCLUSIONES
 
@@ -739,6 +753,7 @@ https://youtu.be/FIkmGYvm-uE
 * También se tiene que para poder hallar la cantidad máxima de potencia que un resistor puede disipar sin que sufra daños por calentamiento excesivo, existe la potencia nominal, la cual no está relacionada con el valor de la resistencia, sino que está relacionada por tres cosas: la composición física, el tamaño y el área de la resistencia.
 * Al querer hallar un valor de corriente o voltaje y si la resistencia permanece constante se puede utilizar una regla de tres, en cambio al querer realiza lo mismo con la resistencia donde el voltaje es constante no sirve debió a que la resistencia y la corriente son inversamente proporcionales.
 * La ley de ohm simboliza la relación que tiene con el voltaje y la resistencia mediante su fórmula.
+* Para la localización de fallas en un circuito debemos tomar en cuenta tan solo 3 pasos iniciando con un análisis para ir localizando las fallas, después vamos a planificar de que manera vamos a solucionarlo de esta manera para ahorrar tiempo y por ultimo realizaremos mediciones para reducir las posibles fallas.
 
 
 6. BIBLIOGRAFÍA
