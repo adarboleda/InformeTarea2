@@ -486,6 +486,23 @@ V_x=(6 V)/(100.144 Ω )*0.072 Ω
 
 **V_x=0.004 V
 
+SECCIÓN 3–4 Cálculo de la resistencia
+29. Calcule la resistencia de un reóstato para cada juego de valores de V e I:
+(a) V= 10 kV, I = 5 A
+      R= 10 kV / 5A
+      R= 2 kΩ
+(b)  V= 7 V, I = 2 mA
+       R= 7 V / 2 mA
+       R= 3.5 kΩ
+(c)  V= 500 V, I = 250 mA
+       R= 500 V / 250 mA
+       R= 2 kΩ
+(d)  V= 50 V, I = 500 µA
+       R= 50 V / 500 µA
+       R= 100 kΩ
+(e)  V= 1 kV, I = 1 mA
+       R= 1 kV / 1 mA
+       R= 1.0 MΩ
 
 
 * SECCIÓN 4–1 Energía y potencia
